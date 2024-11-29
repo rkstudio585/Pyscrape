@@ -11,16 +11,26 @@ Web scraper without any 3rd party library for app.
 3. **Error Handling**:
    - Gracefully handles errors like invalid URLs or failed network connections.
 
+---
+
 ### Usage:
 1. Save the script as `pyscrape.py`.
-2. Install the required libraries:
+2. Clone Repo:
+   ```bash
+   https://github.com/rkstudio585/Pyscrape
+   cd Pyscrape
+   ```
+3. Install the required libraries:
    ```bash
    pip install requests rich
    ```
-3. Run the script:
+4. Run the script:
    ```bash
    python3 pyscrape.py
    ```
-4. Enter the URL of your terminal-based website when prompted.
+5. Enter the URL of your terminal-based website when prompted.
+
+---
+
 
 Create With Love 😘 By RK! ❤️ Happy Coding.
