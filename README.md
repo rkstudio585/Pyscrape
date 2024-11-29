@@ -14,7 +14,7 @@ Web scraper without any 3rd party library for app.
 ---
 
 ### Usage:
-1. Save the script as `pyscrape.py`.
+1. Save the script as `pyscrape.py` or clone the git reop.
 2. Clone Repo:
    ```bash
    https://github.com/rkstudio585/Pyscrape
